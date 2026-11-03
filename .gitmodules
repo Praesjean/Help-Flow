@@ -1,3 +1,15 @@
 [submodule "microservice-chamados"]
 	path = microservice-chamados
 	url = https://github.com/Praesjean/Help-Flow-Chamados.git
+[submodule "microfrontend"]
+	path = microfrontend
+	url = https://github.com/Praesjean/Help-Flow-Frontend.git
+[submodule "bff"]
+	path = bff
+	url = https://github.com/Praesjean/Help-Flow-BFF.git
+[submodule "microservice-usuarios"]
+	path = microservice-usuarios
+	url = https://github.com/Praesjean/Help-Flow-Usuarios.git
+[submodule "azure-function"]
+	path = azure-function
+	url = https://github.com/Praesjean/Help-Flow-Function.git
