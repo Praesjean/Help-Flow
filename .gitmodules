@@ -1,0 +1,3 @@
+[submodule "microservice-chamados"]
+	path = microservice-chamados
+	url = https://github.com/Praesjean/Help-Flow-Chamados.git
